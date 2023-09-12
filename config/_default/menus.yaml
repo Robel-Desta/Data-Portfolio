@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: #"C:\Users\Owner\OneDrive - University of Denver\Desktop\Professional-Career\Resume.pdf"
+    url: #C:\Users\Owner\OneDrive - University of Denver\Desktop\Professional-Career\Resume.pdf
     weight: 10
   - name: Resumé
     url: about/
