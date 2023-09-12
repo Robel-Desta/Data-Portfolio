@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Robel Desta (Ro-Bell De_Sta)
+title: Robel Desta
 
 # Is this the primary user of the site?
 superuser: true
